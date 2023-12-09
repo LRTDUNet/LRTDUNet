@@ -1,0 +1,5 @@
+KAIST datasets: https://vclab.kaist.ac.kr/siggraphasia2017p1/kaistdataset.html
+
+CAVE datasets：https: //www.cs.columbia.edu/CAVE/databases/multispectral/
+
+NTIRE2022 datasets：https://github.com/boazarad/NTIRE2022_spectral
